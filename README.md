@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/BeyzaCeylan](https://github.com/BeyzaCeylan)
 
-- 💬 Ask me about **FrontEnd Web Programming**
+- 💬 Ask me about **Mobile Programming**
 
 - 📫 How to reach me **beyzaceylan0134@gmail.com**
 
