@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Beyza Ceylan</h1>
 <h3 align="center">A passionate Computer Engineering Student from Turkey</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BeyzaCeylan](https://github.com/BeyzaCeylan)
 
